@@ -1,0 +1,49 @@
+    padding: 1rem;
+            background-color: #333;
+            color: #fff;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Brand Parfum Anda</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Tentang Kami</a></li>
+                <li><a href="#products">Produk</a></li>
+                <li><a href="#contact">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Parfum Premium dengan Aroma Istimewa</h2>
+        <p>Temukan aroma yang mencerminkan kepribadian Anda. Dibuat dengan bahan alami berkualitas tinggi.</p>
+    </section>
+
+    <section id="products" class="container">
+        <h2>Produk Unggulan</h2>
+        <div class="product">
+            <img src="https://via.placeholder.com/300" alt="Produk 1">
+            <div class="product-details">
+                <h3>Parfum Aroma Lavender</h3>
+                <p>Aroma yang menenangkan dan menyegarkan, cocok untuk relaksasi.</p>
+                <button>Beli Sekarang</button>
+            </div>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/300" alt="Produk 2">
+            <div class="product-details">
+                <h3>Parfum Aroma Oud</h3>
+                <p>Keharuman mewah dengan sentuhan kayu gaharu yang eksotis.</p>
+                <button>Beli Sekarang</button>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Brand Parfum Anda. Semua Hak Dilindungi.</p>
+    </footer>
+</body>
+</html>
